@@ -35,9 +35,10 @@ Welcome to my GitHub profile! I'm passionate about technology and love working o
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harshjeet)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/harshjeet)
-[![Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=for-the-badge)](https://www.harshjeet.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harshjeet-kumar-a69930137/)
+
+
+
 
 ## 💼 Projects
 
