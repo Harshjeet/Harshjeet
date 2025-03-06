@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love working o
 ## 💼 Projects
 
 ### Project 1
-[![Project 1](https://img.shields.io/badge/-Project%201-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/project1)
+[![Project 1](https://img.shields.io/badge/-Project%201-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/learning-management-system)
 Description of Project 1.
 
 ### Project 2
