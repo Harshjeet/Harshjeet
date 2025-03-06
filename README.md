@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love working o
 - 🌱 I’m currently learning **[JAVA]**
 - 👯 I’m looking to collaborate on **Open Source Projects**,**Data Science**, **Full Stack Developer**
 - 💬 Ask me about **Web Development, Data Science, or anything tech-related**
-- 📫 How to reach me: [harshjeet@example.com](mailto:harshjeetkumar0@gmail.com)
+- 📫 How to reach me: [harshjeetkumar0@gmail.com](mailto:harshjeetkumar0@gmail.com)
 - ⚡ Fun fact: I love **[listen music, watching movies, learn new stuff]**
 
 ## 🛠️ Skills
