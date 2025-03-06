@@ -41,13 +41,14 @@ Welcome to my GitHub profile! I'm passionate about technology and love working o
 
 ## 💼 Projects
 
-### Project 1
-[![Project 1](https://img.shields.io/badge/-Project%201-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/learning_management_system)
-Description of Project 1.
+### Learning Management System
+[![Learning Management System](https://img.shields.io/badge/-Learning%20Management%20System-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/learning_management_system)
+A comprehensive platform for managing online courses, including student enrollment, course content management, and progress tracking.
 
-### Project 2
-[![Project 2](https://img.shields.io/badge/-Project%202-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/project2)
-Description of Project 2.
+### OCR Project
+[![OCR Project](https://img.shields.io/badge/-OCR%20Project-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/ocr_project)
+An Optical Character Recognition (OCR) system that converts different types of documents, such as scanned paper documents, PDFs, or images captured by a digital camera, into editable and searchable data.
+
 
 ## 🎨 Fun Zone
 
