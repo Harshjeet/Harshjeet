@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love working o
 A comprehensive platform for managing online courses, including student enrollment, course content management, and progress tracking.
 
 ### OCR Project
-[![OCR Project](https://img.shields.io/badge/-OCR%20Project-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/ocr_project)
+[![OCR Project](https://img.shields.io/badge/-OCR%20Project-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Harshjeet/OCR_project)
 An Optical Character Recognition (OCR) system that converts different types of documents, such as scanned paper documents, PDFs, or images captured by a digital camera, into editable and searchable data.
 
 
