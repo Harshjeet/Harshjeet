@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Harshjeet! 👋
 
-<!--
-**Harshjeet/Harshjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer with a love for coding and technology. I enjoy working on exciting projects and learning new things.
+
+## Skills
+
+- **Programming Languages:** Python, JavaScript, Java
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/harshjeet/)
+- [Twitter](https://twitter.com/harshjeet)
+- [Personal Website](https://www.harshjeet.com)
+
+## Projects
+
+- **Project 1:** [Project 1 Repository](https://github.com/Harshjeet/project1)
+- **Project 2:** [Project 2 Repository](https://github.com/Harshjeet/project2)
+
+![Cool GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+Thanks for visiting my profile! 😊
